@@ -1,0 +1,16 @@
+main: me.SpookyproYT.akits.Main
+name: AdvancedKits
+version: 1.5
+description: This plugin adds advanced kits!
+api-version: 1.16
+commands:
+ kit:
+  description: This command gives you a kit.
+ kithelp:
+  description: Writes you all the commands on the plugin in the chat.
+ kitc:
+  description: Writes you the creator of the plugin in the chat.
+ kitv:
+  description: Writes you the version of the plugin in the chat.
+ kitlist:
+  description: Writes you the list of the kits in the chat.
